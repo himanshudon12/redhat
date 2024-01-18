@@ -1,2 +1,1 @@
-# redhat
-this is my repository
+hello world
